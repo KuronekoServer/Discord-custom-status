@@ -1,0 +1,2 @@
+# Discord-custom-status
+Discordのカスタムステータス
