@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "date-utils": "^1.2.21",
+    "discord-rpc": "^4.0.1"
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "activity":{
+            "details": "読み上げbot可愛い=最高！",
+            "largeImageText": "よろしくやで～",
+            "buttons": [
+                {
+                    "label" : "Discord Server",
+                    "url" : "https://discord.gg/Y6w5Jv3EAR"
+                },
+                {
+                    "label" : "VOICEROID読み上げbot",
+                    "url" : "https://tts.kuroneko6423.com"
+                }
+            ]
+        },
+    "applicationId": "951429366179569664"
+}
